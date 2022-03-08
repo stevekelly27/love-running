@@ -244,13 +244,13 @@ footer {
 
 /* gallery */
 
-#photos {
+#running {
     clear: both;
     line-height: 0;
     column-count: 4;
     column-gap: 0;
 }
 
-#photos > img {
+#running > img {
     width: 100%;
 }
